@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math & coding.
 - 🌱 I’m currently Working "AOOZUP BUSINESS SERVICE".
 - 📫 E-mail- muhammadashrafulbusiness10@gmail.com
-- MUhammad Ashraful website: https://muhammad-ashraful10.netlify.app/
+- MUhammad Ashraful website: https://t.co/BP9uzsmTvA
 
 <!---
 ASHRAFUL-QU10/ASHRAFUL-QU10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
