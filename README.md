@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MUhammad Ashraful QU10.
+- 👋 Hi, I’m Ashraful QU10.
 - 👀 I’m interested in Math & coding.
 - 🌱 I’m currently Working "TRIAOOZ LTD" .
 - 📫 E-mail- muhammadashrafulbusiness10@gmail.com .
