@@ -3,7 +3,7 @@
 - 🌱 I’m currently Working "TRIAOOZ LTD" .
 - 📫 E-mail- muhammadashrafulbusiness10@gmail.com .
 - 📫 Business Email: info.triaooz@gmail.con
-- MUhammad Ashraful website: https://t.co/BP9uzsmTvA .
+- MUhammad Ashraful website: https://t.co/sejlleNjxR .
 
 <!---
 ASHRAFUL-QU10/ASHRAFUL-QU10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
