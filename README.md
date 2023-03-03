@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math & coding.
 - 🌱 I’m currently Working "TRIAOOZ LTD" .
 - 📫 E-mail- muhammadashrafulbusiness10@gmail.com .
-- 📫 Business Email: info.triaooz@gmail.con
+- 📫 Business Email: info.triaooz@gmail.com .
 - MUhammad Ashraful website: https://t.co/sejlleNjxR .
 
 <!---
