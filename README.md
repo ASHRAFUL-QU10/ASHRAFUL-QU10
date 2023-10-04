@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math, physics & coding.
 - 🌱 I’m currently Working "TRIAOOZ LTD".
 - 📫 E-mail- ashrafulqu10@gmail.com .
-- 📫 Business Email: info@Triaooz.com .
+- 📫 Business Email: info@triaooz.com .
 - TRIAOOZ TMM LTD WEB: https://www.triaooz.com .
 
 <!---
