@@ -9,9 +9,10 @@
 
 
 Business logic, data structures, and algorithms are not uploaded due to idea security reasons.
-2024 COPYRIGHT BY QU10.
+
+2024. All Rights Reserved by QU10
   
-#QUM10 " Sine Of Significance "
+#QU10 " Sine Of Significance "
 <!---
 ASHRAFUL-QU10/ASHRAFUL-QU10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
