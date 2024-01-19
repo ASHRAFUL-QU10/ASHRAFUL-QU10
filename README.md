@@ -7,6 +7,8 @@
 - 📫 Business Email: info@triaooz.com .
 - TRIAOOZ TMM LTD WEB: https://www.triaooz.com .
 
+
+Business logic, data structures, and algorithms are not uploaded due to security reasons.
   
 #QUM10 " Sine Of Significance "
 <!---
