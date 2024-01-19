@@ -8,7 +8,8 @@
 - TRIAOOZ TMM LTD WEB: https://www.triaooz.com .
 
 
-Business logic, data structures, and algorithms are not uploaded due to security reasons.
+Business logic, data structures, and algorithms are not uploaded due to idea security reasons.
+2024 COPYRIGHT BY QU10.
   
 #QUM10 " Sine Of Significance "
 <!---
