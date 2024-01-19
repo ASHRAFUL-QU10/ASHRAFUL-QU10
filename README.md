@@ -10,7 +10,7 @@
 
 Business logic, data structures, and algorithms are not uploaded due to idea security reasons.
 
-2024. All Rights Reserved by QU10
+All Rights Reserved by QU10
   
 #QU10 " Sine Of Significance "
 <!---
