@@ -8,7 +8,7 @@
 - TRIAOOZ TMM LTD WEB: https://www.triaooz.com .
 
 
-Business logic is not uploaded due to idea security reasons.
+Business logic/Business intelligence (BI) is not uploaded due to idea security reasons.
 
 All Rights Reserved by QU10
 
