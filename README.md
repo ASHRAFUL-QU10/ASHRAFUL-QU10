@@ -8,7 +8,7 @@
 - TRIAOOZ TMM LTD WEB: https://www.triaooz.com .
 
 
-Business logic, data structures, and algorithms are not uploaded due to idea security reasons.
+Business logic are not uploaded due to idea security reasons.
 
 All Rights Reserved by QU10
   
