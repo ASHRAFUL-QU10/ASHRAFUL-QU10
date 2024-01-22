@@ -1,11 +1,15 @@
 - 👋 Hi, I’m Muhammad Ashraful QU10.
 - 👀 I’m interested in Math, physics & coding.
 - 🌱 I’m currently Working on "TRIAOOZ TMM LTD".
+
+  
 - 📫 Social Media E-mail- muhammadashrafulbusiness10@gmail.com.
 - 📫 Personal E-mail- ashrafulqu10@gmail.com .
 - 📫 Personal Business E-mail- info@ashrafulqu10.xyz.
+- Muhammad Ashraful Portfolio website: https://www.triaooz.com/QU10-PROTFOLIO/qu10.html.
+
+  
 - 📫 Business Email: info@triaooz.com .
-- Muhammad ashraful Portfolio website: https://www.triaooz.com/QU10-PROTFOLIO/qu10.html.
 - TRIAOOZ LTD WEB: https://www.triaooz.com.
 
 
