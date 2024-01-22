@@ -5,7 +5,7 @@
 - 📫 Personal E-mail- ashrafulqu10@gmail.com .
 - 📫 Personal Business E-mail- info@ashrafulqu10.xyz.
 - 📫 Business Email: info@triaooz.com .
-- TRIAOOZ TMM LTD WEB: https://www.triaooz.com .
+- TRIAOOZ LTD WEB: https://www.triaooz.com.
 
 
 Business logic/Business intelligence (BI) is not uploaded due to idea security reasons.
