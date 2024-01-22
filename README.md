@@ -9,8 +9,6 @@
 
 
 Business logic/Business intelligence (BI) is not uploaded due to idea security reasons.
-
-All Rights Reserved by QU10.
 <!---
 ASHRAFUL-QU10/ASHRAFUL-QU10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
