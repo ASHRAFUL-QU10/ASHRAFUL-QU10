@@ -8,7 +8,7 @@
 
   
 - 📫 Social Media E-mail- muhammadashrafulbusiness10@gmail.com.
-- 📫 Personal E-mail- ashrafulqu10@gmail.com .
+- 📫 Personal E-mail- *****************.
 - 📫 Personal Business E-mail- info@ashrafulqu10.xyz.
 
   
