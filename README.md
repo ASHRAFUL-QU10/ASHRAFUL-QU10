@@ -1,4 +1,4 @@
-- Hi, I’m Muhammad Ashraful QU10.
+- Hi, I’m Muhammad Ashraful.
 - I’m currently Working on "TRIAOOZ TMM LTD".
 - Muhammad Ashraful Portfolio website: https://www.triaooz.com/QU10-PROTFOLIO/qu10.html.
 
