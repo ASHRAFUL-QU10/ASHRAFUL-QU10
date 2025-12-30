@@ -3,16 +3,12 @@
 - Muhammad Ashraful Portfolio website: https://www.triaooz.com/QU10-PROTFOLIO/qu10.html.
 
 
-
-
   
 - 📫 Social Media E-mail- muhammadashrafulbusiness10@gmail.com.
 - 📫 Personal E-mail- (*).
 - 📫 Personal Business E-mail-(*).
 
   
-
-
 
 - TRIAOOZ LTD WEB: https://www.triaooz.com.
   
